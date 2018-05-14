@@ -19,7 +19,7 @@ public class School {
 
     @Override
     public String toString() {
-        return "School is OCC";
+        return "School is OCC" ;
     }
 
     public String getName() {
