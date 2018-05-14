@@ -49,7 +49,8 @@ public class Person {
         else{
               this.age = age;
               
-              age = 12/0;
+             
+             
         }
       
     }
